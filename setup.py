@@ -1,18 +1,18 @@
 from setuptools import setup, find_packages
 
-setup(name='super_fun_converter',
+setup(name='quality_made_xlsx',
     version='0.0.1',
-    url='http://github.com/CitrineInformatics/citrine-python-converter-template',
-    description='This converter does something',
-    author='This converter was written by someone',
-    author_email='maxhutch@citrine.io',
+    url='https://github.com/csm-adapt/citrine-quality-made',
+    description='This converts a Quality Made Excel metadata file to PIF.',
+    author='This converter was written by Branden Kappes',
+    author_email='bkappes@mines.edu',
     packages=find_packages(),
     install_requires=[
         'pypif',
     ],
     entry_points={
         'citrine.dice.converter': [
-            'super_fun = super_fun_converter.my_module',
+            'quality_made_xlsx = quality_made_xlsx.converter',
         ],
     },
 )

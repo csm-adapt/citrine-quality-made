@@ -1,11 +1,11 @@
 # This file describes the converter and its arguments to tell the driver how to construct the UI
 
 ## The first block gives the name, namespace, version, and description of the converter
-name: super_fun_ingester                        # Any valid python key (should be unique)
-namespace: citrine/examples                     # folder-like grouping that can be used across multiple ingesters
-displayName: "Citrine: Super-fun Ingester"      # The name that is displayed on the website
-version: auto                                   # Auto will pull the version from setup.py 
-description: A super fun citrination ingester.  # Any string
+name: quality_made_xlsx                           # Any valid python key (should be unique)
+namespace: mines/xlsx                             # folder-like grouping that can be used across multiple ingesters
+displayName: "Mines: Quality Made XLSX Ingester"  # The name that is displayed on the website
+version: auto                                     # Auto will pull the version from setup.py
+description: Ingester for XLSX metadata files.    # Any string
 
 ## The second block lists the arguments, specifying their names, descriptions, types, 
 ## any default values, and whether they are required or optional.
@@ -19,28 +19,28 @@ description: A super fun citrination ingester.  # Any string
 ## There is also support for fixed-size lists with the form List[size][type].  For
 ## example, List[3][Real] would be a 3 length list.  Multi-dimensional lists are not currently
 ## supported.
-arguments:                  # These are the arguments for the convert method
-- name: important_argument          # each argument has a name (must be a valid python key)
-  desc: A really important argument # and a description (any string)
-  type: Integer                     # this is the type of the argument (see above)
-  required: true                    # and whether or not the argument is required
-
-- name: whatever_argument # Any number of arguments can be specified
-  desc: A less important argument
-  type: List[3][Real] # this is a 3-length list
-  default: # With default values
-    - 0.0
-    - 1.0
-    - 2.0
-  required: true # defaults are only supported for required arguments
-
-- name: do_some_extra_thing # Here's an example for a boolean
-  desc: Run some additional preprocessing on something
-  type: Boolean 
-  default: false
-  required: true
-
-- name: some_condition
-  desc: The condition of the data, if known
-  type: String
-  required: false # the condition might not be known, so it doesn't need to be specified
+#arguments:                  # These are the arguments for the convert method
+#- name: important_argument          # each argument has a name (must be a valid python key)
+#  desc: A really important argument # and a description (any string)
+#  type: Integer                     # this is the type of the argument (see above)
+#  required: true                    # and whether or not the argument is required
+#
+#- name: whatever_argument # Any number of arguments can be specified
+#  desc: A less important argument
+#  type: List[3][Real] # this is a 3-length list
+#  default: # With default values
+#    - 0.0
+#    - 1.0
+#    - 2.0
+#  required: true # defaults are only supported for required arguments
+#
+#- name: do_some_extra_thing # Here's an example for a boolean
+#  desc: Run some additional preprocessing on something
+#  type: Boolean
+#  default: false
+#  required: true
+#
+#- name: some_condition
+#  desc: The condition of the data, if known
+#  type: String
+#  required: false # the condition might not be known, so it doesn't need to be specified

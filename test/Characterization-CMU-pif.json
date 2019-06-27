@@ -1,0 +1,1203 @@
+[
+    {
+        "uid": "0",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.3
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "1",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.4
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3991.462",
+                    "3991.462",
+                    "3932.98",
+                    "3932.98",
+                    "3932.98",
+                    "end",
+                    "3607.638",
+                    "3658.991",
+                    "3658.991",
+                    "3658.991",
+                    "3557.357",
+                    "3658.991"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.4_1top.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_2jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0003.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0004.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0005.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0006.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0007.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0008.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0009.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0010.jpg"
+                    },
+                    {
+                        "relativePath": "1.4_0011.jpg"
+                    },
+                    {
+                        "relativePath": "ruler10x.jpg"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "2",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.5
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3819.807",
+                    "3557.357",
+                    "3508.121",
+                    "3366.394",
+                    "end",
+                    "3366.394",
+                    "3412.667",
+                    "3459.9",
+                    "3412.667",
+                    "3412.667",
+                    "3366.394",
+                    "3459.9"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.5_1top.jpg"
+                    },
+                    {
+                        "relativePath": "1.5_2.jpg"
+                    },
+                    {
+                        "relativePath": "1.5_0003.jpg"
+                    },
+                    {
+                        "relativePath": "1.5_0004.jpg"
+                    },
+                    {
+                        "relativePath": "1.5_0005.jpg"
+                    },
+                    {
+                        "relativePath": "1.5_0006.jpg"
+                    },
+                    {
+                        "relativePath": "newrulerx5.jpg"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "3",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.6
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3658.991",
+                    "3607.638",
+                    "3190.404",
+                    "3067.313",
+                    "3190.404",
+                    "end",
+                    "3276.627",
+                    "3276.627",
+                    "3366.394",
+                    "3067.313",
+                    "3233.085"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.6_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.6_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.6_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.6_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.6_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "4",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.7
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3658.991",
+                    "3658.991",
+                    "3366.394",
+                    "end",
+                    "3459.9",
+                    "3276.627",
+                    "3321.056",
+                    "3276.627",
+                    "3276.627",
+                    "3276.627",
+                    "3412.667"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.7_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.7_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.7_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.7_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.7_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "5",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.8
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "6",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.9
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3190.404",
+                    "3233.085",
+                    "3321.056",
+                    "3148.563",
+                    "3875.774",
+                    "3412.667",
+                    "3190.404",
+                    "end",
+                    "3233.085",
+                    "3711.449",
+                    "3233.085",
+                    "3148.563",
+                    "3321.056]"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.9_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.9_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.9_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.9_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.9_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "1.19_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "7",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.1
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3557.357",
+                    "3711.449",
+                    "3711.449",
+                    "3819.807",
+                    "3711.449",
+                    "3658.991",
+                    "3459.9",
+                    "end",
+                    "3276.627",
+                    "3412.667",
+                    "3233.085",
+                    "3459.9",
+                    "3148.563"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.10_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.10_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.10_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.10_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.10_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "1.10_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "8",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.11
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3658.991",
+                    "3658.991",
+                    "3459.9",
+                    "3508.121",
+                    "3765.043",
+                    "3875.774",
+                    "3711.449",
+                    "end",
+                    "3607.638",
+                    "3508.121",
+                    "3190.404",
+                    "3412.667",
+                    "3412.667",
+                    "3233.085",
+                    "3321.056"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.11_1top.jpg"
+                    },
+                    {
+                        "relativePath": "1.11_2jpg"
+                    },
+                    {
+                        "relativePath": "1.11_3.jpg"
+                    },
+                    {
+                        "relativePath": "1.11_4.jpg"
+                    },
+                    {
+                        "relativePath": "1.11_5.jpg"
+                    },
+                    {
+                        "relativePath": "1.11_6.jpg"
+                    },
+                    {
+                        "relativePath": "1.11_7.jpg"
+                    },
+                    {
+                        "relativePath": "newrulerx5.jpg"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "9",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.12
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3412.667",
+                    "3366.394",
+                    "3557.357",
+                    "3508.121",
+                    "3557.357",
+                    "3459.9",
+                    "3366.394",
+                    "end",
+                    "3190.404",
+                    "3190.404",
+                    "3459.9",
+                    "3557.357",
+                    "3557.357"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.12_1top.jpg"
+                    },
+                    {
+                        "relativePath": "1.12_2jpg"
+                    },
+                    {
+                        "relativePath": "1.12_3.jpg"
+                    },
+                    {
+                        "relativePath": "1.12_0004.jpg"
+                    },
+                    {
+                        "relativePath": "1.12_0005.jpg"
+                    },
+                    {
+                        "relativePath": "1.12_6.jpg"
+                    },
+                    {
+                        "relativePath": "newrulerx5.jpg"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "10",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 1.13
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3321.056",
+                    "3276.627",
+                    "3412.667",
+                    "3190.404",
+                    "3658.991",
+                    "3459.9",
+                    "3276.627",
+                    "end",
+                    "3321.056",
+                    "3107.54",
+                    "3508.121",
+                    "3027.863",
+                    "3148.563"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.13_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "1.13_5x_0007.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "11",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.1
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3067.313",
+                    "3366.394",
+                    "3412.667",
+                    "3508.121",
+                    "3459.9",
+                    "3412.667",
+                    "3190.404",
+                    "end",
+                    "3148.563",
+                    "3276.627",
+                    "3190.404",
+                    "3190.404",
+                    "3233.085"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "2.1_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "2.1_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "2.1_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "2.1_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "2.1_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "2.1_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "12",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.2
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3658.991",
+                    "4174.954",
+                    "3190.404",
+                    "3233.085",
+                    "3366.394",
+                    "3459.9",
+                    "3321.056",
+                    "3148.563",
+                    "end",
+                    "3027.863",
+                    "3148.563",
+                    "3321.056",
+                    "3412.667",
+                    "3233.085"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "13",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.14
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "14",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.15
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "15",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.16
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3508.121",
+                    "3459.9",
+                    "3412.667",
+                    "3508.121",
+                    "3557.357",
+                    "3148.563",
+                    "end",
+                    "3412.667",
+                    "3233.085",
+                    "3233.085",
+                    "3276.627",
+                    "3366.394",
+                    "3276.627"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "2.16_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "2.16_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "2.16_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "2.16_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "2.16_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "2.16_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "16",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.2
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "2.2_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "2.2_5x_0007.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "17",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 2.21
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": NaN,
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": []
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "18",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.1
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3557.357",
+                    "3658.991",
+                    "3819.807",
+                    "3276.627",
+                    "end",
+                    "3107.54",
+                    "3148.563",
+                    "3190.404",
+                    "3233.085",
+                    "3107.54",
+                    "2951.211"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.1_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.1_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.1_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.1_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.1_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "19",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.2
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "4051.259",
+                    "3711.449",
+                    "3765.043",
+                    "3412.667",
+                    "end",
+                    "3412.667",
+                    "3067.313",
+                    "3276.627",
+                    "3276.627",
+                    "3233.085",
+                    "3366.394"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.2_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.2_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.2_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.2_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.2_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "20",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.3
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3366.394",
+                    "3459.9",
+                    "3819.807",
+                    "3412.667",
+                    "3366.394",
+                    "end",
+                    "3107.54",
+                    "3412.667",
+                    "3148.563",
+                    "3190.404",
+                    "3107.54"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.3_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.3_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.3_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.3_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.3_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "21",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.4
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3459.9",
+                    "3190.404",
+                    "3233.085",
+                    "3366.394",
+                    "3276.627",
+                    "end",
+                    "2877.434",
+                    "3233.085",
+                    "3233.085",
+                    "3107.54",
+                    "2989.168",
+                    "2951.211"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.4_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.4_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.4_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.4_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.4_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "3.4_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "22",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.5
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3412.667",
+                    "3366.394",
+                    "3412.667",
+                    "3557.357",
+                    "3459.9",
+                    "3233.085",
+                    "end",
+                    "2913.972",
+                    "3067.313",
+                    "2913.972",
+                    "3233.085",
+                    "3067.313",
+                    "2989.168"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.5_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.5_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.5_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.5_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.5_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "3.5_5x_0006.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "23",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": 3.7
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3607.638",
+                    "3658.991",
+                    "3321.056",
+                    "end",
+                    "2951.211",
+                    "2989.168",
+                    "3190.404",
+                    "3148.563",
+                    "3067.313",
+                    "3107.54",
+                    "3107.54"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "3.7_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "3.7_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "3.7_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "3.7_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "3.7_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "24",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": [
+                    "1.2_3"
+                ]
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3459.9",
+                    "3607.638",
+                    "end",
+                    "3190.404",
+                    "3027.863",
+                    "3107.54",
+                    "3321.056",
+                    "3148.563",
+                    "3067.313",
+                    "3233.085",
+                    "3276.627"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "1.2_3_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "1.2_3_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "1.2_3_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "1.2_3_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "1.2_3_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    },
+    {
+        "uid": "25",
+        "properties": [
+            {
+                "name": "Sample Name",
+                "scalars": [
+                    "2.2_3"
+                ]
+            },
+            {
+                "name": "Vickers hardness",
+                "scalars": [
+                    "3607.638",
+                    "3508.121",
+                    "3067.313",
+                    "end",
+                    "2877.434",
+                    "3148.563",
+                    "3067.313",
+                    "3190.404",
+                    "3067.313",
+                    "3276.627"
+                ],
+                "units": "MPa"
+            },
+            {
+                "name": "hardnessCMUX.X-X.X.zip",
+                "files": [
+                    {
+                        "relativePath": "2.2_3_5x_0001.tif"
+                    },
+                    {
+                        "relativePath": "2.2_3_5x_0002.tif"
+                    },
+                    {
+                        "relativePath": "2.2_3_5x_0003.tif"
+                    },
+                    {
+                        "relativePath": "2.2_3_5x_0004.tif"
+                    },
+                    {
+                        "relativePath": "2.2_3_5x_0005.tif"
+                    },
+                    {
+                        "relativePath": "ruler for hardness3_5x.tif"
+                    }
+                ]
+            }
+        ],
+        "category": "system"
+    }
+]

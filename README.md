@@ -12,7 +12,7 @@ To use it, you'll need to edit some of the files.
 There are no templating magicks (at this point).
 Let's just go through the files:
 
-### `super_fun_converter`
+### `quality_made_xlsx`
 
 This directory name is the name of the converter package.
 Its good practice to pick a descriptive name, but anything will do.
@@ -21,7 +21,7 @@ It is helpful (but not strictly required) if the name doesn't conflict with any 
 
 This directory contains the converter
 
-### `my_module.py`
+### `converter.py`
 
 This is a example module that contains a convert method.
 You can change the name of the module by renaming the file.
